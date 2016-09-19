@@ -62,6 +62,10 @@ which effectively replace the old `BeginControllerCommand`.
 -  zwave.deleteButton(nodeid, buttonid)
   Delete id that tracks handheld button presses
 
+-  zwave.writeConfig()
+  Save configuration.
+
+
 
 
 ## Legacy mode (`BeginControllerCommand`)
